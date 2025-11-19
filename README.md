@@ -27,4 +27,4 @@ Este programa en C calcula la **masa total** y el **centro de masa** de un cuerp
 make
 
 
-
+./triple_integral
